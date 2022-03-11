@@ -129,6 +129,10 @@
 
 - Get familiar with tools that you will be using:
 
+- [Blockchain Development Resources](https://github.com/frankiefab100/Blockchain-Development-Resources)
+
+- [DeFi open source tools](https://github.com/gauss314/defi)
+
 #### Package Managers
 
 - [npm](https://www.npmjs.com/)
@@ -436,6 +440,8 @@
 - [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
 
 ##### Web2 cybersecurity
+
+- [The Bug Hunter Handbook](https://gowthams.gitbook.io/bughunter-handbook/)
 
 - [TryHackMe: Complete rooms with challenges and puzzles to break, all from the browser](https://tryhackme.com/welcome) - Hands on cybersecurity training with real-world tasks
 
